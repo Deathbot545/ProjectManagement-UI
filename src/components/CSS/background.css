@@ -1,0 +1,92 @@
+.light-gradient-bg {
+    background: linear-gradient(to right, #fad0c4, #FFFFE0, #ffdbe0, #FFFFFF); /* Peach to Light Yellow to Light Pink to White */
+}
+.purple-bg {
+    background-color: #8A2BE2; /* Purple */
+    color: #ffffff; /* White text */
+}
+
+.purple-btn {
+    background-color: #8A2BE2; /* Purple */
+    color: #ffffff; /* White text */
+    border-color: #8A2BE2; /* Purple border */
+}
+
+.purple-text {
+    color: #ffffff; /* White text */
+}
+
+/* Navbar background gradient */
+
+
+
+.purple-gradient-bg {
+    background: linear-gradient(to top right, #8A2BE2, #4B0082, #1156f9, #00FFFF, #FFFFFF); /* Purple to Blue to Cyan to White */
+    color: #ffffff; /* White text */
+}
+.purple-gradient-bg-left {
+    background: linear-gradient(to top left, #8A2BE2, #4B0082, #1156f9, #00FFFF, #FFFFFF); /* Purple to Blue to Cyan to White */
+    color: #ffffff; /* White text */
+}
+.orange-pink-gradient-bg {
+    background: linear-gradient(to bottom right, #FFD700, #FF69B4, #FF1493, #87CEEB); /* Light Orange to Pink to Dark Pink to Light Blue */
+    color: #ffffff; /* White text */
+}
+.orange-pink-gradient-bg-left {
+    background: linear-gradient(to bottom left, #FFD700, #FF69B4, #FF1493, #87CEEB); /* Light Orange to Pink to Dark Pink to Light Blue */
+    color: #ffffff; /* White text */
+}
+
+/* Royal Blue to Orchid to Gold */
+.royalblue-orchid-gold-gradient-bg {
+    background: linear-gradient(to top right, #4169E1, #DA70D6, #FFD700); /* Royal Blue to Orchid to Gold */
+    color: #ffffff; /* White text */
+}
+.list-group-item {
+    background-color: transparent; /* Make list group item background transparent */
+  }
+  
+/* Deep Blue to Sky Blue to Light Green */
+.deepblue-skyblue-lightgreen-gradient-bg {
+    background: linear-gradient(to top right, #000080, #87CEEB, #90EE90); /* Deep Blue to Sky Blue to Light Green */
+    color: #ffffff; /* White text */
+}
+
+
+.chart-card-bg {
+    background: linear-gradient(to bottom right, #f0f0f0, #dcdcdc); /* Subtle gradient */
+    color: #333; /* Dark text color */
+  }
+  
+
+.welcome-text {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333; /* Adjust the color as needed */
+    text-align: center;
+    margin-top: 20px;
+}
+
+.custom-table-content td, .custom-table-content th {
+    background-color: transparent; /* Make table cells transparent */
+    border-color: rgb(0, 187, 255); /* Remove borders */
+}
+
+.custom-text{
+    font-weight: bold;
+    color: #333; /* Adjust the color as needed */
+    text-align: center;
+}
+
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #ffecd2;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(255,236,210,0.5), rgba(252,182,159,0.5));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(255,236,210,0.5), rgba(252,182,159,0.5))
+  }
+
+

@@ -1,0 +1,37 @@
+.nav-bar-gradient {
+    background: linear-gradient(to bottom right, #492A84, #2a4b84, #49A3DC);
+}
+
+/* Nav link styles */
+.nav-link {
+    color: #ffffff; /* Bright white color */
+}
+
+/* Active nav link styles */
+.nav-link.active {
+    background-color: #ffffff; /* White background color */
+    color: #000000; /* Black color for text */
+}
+
+.offcanvas-header .offcanvas-title {
+    color: #fff; /* White color */
+    font-size: 24px; /* Larger size */
+}
+.nav-item-content {
+    display: flex;
+    align-items: center;
+  }
+  
+.fa-react {
+    color: #fff; /* White color */
+}
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #f6d365;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(246,211,101,0.85), rgba(253,160,133,0.85));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(246,211,101,0.85), rgba(253,160,133,0.85))
+  }
